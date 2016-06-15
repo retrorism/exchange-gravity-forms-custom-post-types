@@ -1,0 +1,21 @@
+
+{
+    "name": "retrorism/exchange-gravity-forms-custom-post-types",
+    "description": "Plugin to add Custom Post functionality to Gravity Forms, edited from David Smith's / Gravity Wiz' plugin.",
+    "authors":  [
+      {
+        "name": "David Smith",
+        "homepage": "https://www.gravitywiz.com/"
+      },
+      {
+        "name": "Willem Prins",
+        "homepage": "https://www.somtijds.nl"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "source": {
+        "url": "https://github.com/retrorism/retrorism/exchange-gravity-forms-custom-post-types",
+        "type": "git",
+        "reference": "master"
+    }
+}
